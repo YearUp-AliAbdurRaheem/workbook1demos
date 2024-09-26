@@ -6,7 +6,7 @@ public class Demo1 {
         System.out.println("Hello World!");
 
 
-        char status = 's';
+        char status;
         int indeetifier = 1;
         String name = "Ali";
 
